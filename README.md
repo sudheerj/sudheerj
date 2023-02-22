@@ -14,7 +14,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
+I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 - I’m working as a Senior IT consultant and building large scale web applications.
 
 - Authoring and blogging about emerging technologies.
