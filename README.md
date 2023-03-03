@@ -16,7 +16,6 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and twitter.
----
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
@@ -29,8 +28,6 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
 <a href="https://github.com/sudheerj">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
-
----
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -50,8 +47,6 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
 
 #### :writing_hand: Blog Posts :
 **WebSite:** [Sudheerjonna.com](https://sudheerjonna.com)
