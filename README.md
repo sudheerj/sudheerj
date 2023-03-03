@@ -7,8 +7,10 @@
     <a href="https://twitter.com/SudheerJonna">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://www.sudheerjonna.com">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sudheerj&style=flat-square&color=blue" alt=""/>
 </div>
 
 #### 💻 &nbsp; About Me :
@@ -48,5 +50,5 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### :writing_hand: Blog Posts :
-**WebSite:** [Sudheerjonna.com](https://sudheerjonna.com)
+<!--- #### :writing_hand: Blog Posts :
+**WebSite:** [Sudheerjonna.com](https://sudheerjonna.com) -->
