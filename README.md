@@ -48,10 +48,10 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
 
 <a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="230" alt="Sudheer's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
 <a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="400" alt="Sudheer's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
 
 ---
