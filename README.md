@@ -20,9 +20,7 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
 - Authoring and blogging about emerging technologies.
 
 - Share knowledge through meetups and twitter.
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,11 +43,18 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
+<a href="https://github.com/sudheerj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" alt="Sudheer's most used languages" />
+</a>
+<a href="https://github.com/sudheerj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sudheer's github stats"/>
+</a>
 
 ---
 
 ### :writing_hand: Blog Posts :
-**WebSite:**[Sudheerjonna.com](https://sudheerjonna.com)
+**WebSite:** [Sudheerjonna.com](https://sudheerjonna.com)
